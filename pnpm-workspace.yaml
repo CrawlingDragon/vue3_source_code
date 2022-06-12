@@ -1,0 +1,3 @@
+# monorepo的配置文件
+packages:
+  - 'packages/**'
